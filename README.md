@@ -2,7 +2,7 @@
 
 1. [Get started](Getting%20Started.ipynb)
 1. [Data Types](Data%20Type.ipynb)
-1. [os]()
+1. [OS](OS.ipynb)
 1. [pathlib](pathlib.ipynb)
 1. [numpy](numpy.ipynb)
 1. [Pandas](Pandas.ipynb)
